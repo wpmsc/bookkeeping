@@ -1,0 +1,23 @@
+{
+  "name": "bookkeeping",
+  "version": "1.0.0",
+  "description": "A way to add an amount of money to a name, per date.",
+  "homepage": "https://github.com/wpmsc/bookkeeping#readme",
+  "bugs": {
+    "url": "https://github.com/wpmsc/bookkeeping/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpmsc/bookkeeping.git"
+  },
+  "license": "ISC",
+  "author": "wpmsc",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bookkeeping": "^0.0.6"
+  }
+}
